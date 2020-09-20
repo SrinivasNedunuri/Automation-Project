@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# health check and trigger email if server is down
 import time
 import psutil
 import emails
