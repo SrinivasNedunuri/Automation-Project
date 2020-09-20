@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# automatic email attached with the pdf expalaining the supplier about import data
 import emails
 
 if __name__ == "__main__":
