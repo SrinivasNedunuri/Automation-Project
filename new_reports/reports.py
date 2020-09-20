@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#generating report to let know the supplier about the imported data
 from reportlab.platypus import SimpleDocTemplate
 from reportlab.platypus import Paragraph, Spacer, Table, Image
 from reportlab.lib.styles import getSampleStyleSheet
