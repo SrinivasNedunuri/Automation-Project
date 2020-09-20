@@ -1,4 +1,5 @@
 #! /usr/bin/env python3
+# uploading fruit description and image to the server.
 
 import os
 import requests
